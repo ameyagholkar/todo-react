@@ -1,0 +1,27 @@
+{
+  "name": "todo-react",
+  "version": "0.0.0",
+  "description": "Simple to-do list using react 16, react-router 4, webpack 4 &amp; typescript 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ameyagholkar/todo-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ameyagholkar/todo-react/issues"
+  },
+  "homepage": "https://github.com/ameyagholkar/todo-react",
+  "devDependencies": {
+    "webpack": "^4.16.4"
+  },
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "typescript": "^3.0.1"
+  }
+}
